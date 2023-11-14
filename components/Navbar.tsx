@@ -7,12 +7,15 @@ const Navbar = () => {
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5 ">
       <Link href="/">
-        <div className="relative h-12 w-44">
+        <div className="relative flex justify-center items-center">
           <Image
             src="/ecomuebles.png"
             alt="logo"
-            layout="fill"
-            objectFit="contain"
+            /* OJO CON ESTO DE ABAJO */
+            width={200}
+            height={50}
+            /*  layout="fill"
+            objectFit="contain" */
             className="object-contain"
           />
         </div>
@@ -42,7 +45,7 @@ const Navbar = () => {
         alt="menu"
         width={32}
         height={32}
-        className="inline-clock cursor-pointer lg:hidden"
+        className="inline-block cursor-pointer lg:hidden"
       />
     </nav>
   );
