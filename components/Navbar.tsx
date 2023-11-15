@@ -13,7 +13,7 @@ const Navbar = () => {
             alt="logo"
             /* OJO CON ESTO DE ABAJO */
             width={200}
-            height={50}
+            height={30}
             /*  layout="fill"
             objectFit="contain" */
             className="object-contain"
