@@ -13,10 +13,7 @@ const Guide = () => {
             Tu Mejor Elección
           </h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
-            Ofrecemos una variedad de muebles usados en buen estado para la
-            venta. Vendemos muebles de segunda mano y ocasión en tienda física y
-            online. Tenemos más de 8 años de experiencia y somos líderes en este
-            sector.
+          Ofrecemos una plataforma en línea para comprar productos de calidad, asequibles, especializándonos en muebles y artículos de segunda mano restaurados y auténticos. Facilitamos transacciones seguras y entregas a domicilio, promoviendo una alternativa sostenible a la compra de productos nuevos. Ayudamos a nuestros clientes a encontrar tesoros económicos, ecológicos y ahorros significativos.
           </p>
         </div>
       </div>
