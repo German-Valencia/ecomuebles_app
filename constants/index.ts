@@ -18,59 +18,59 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'MUEBLES USADOS',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'Ofrecemos una variedad de muebles usados en buen estado para la venta. Vendemos muebles de segunda mano y ocasión en tienda física y online. Tenemos más de 8 años de experiencia y somos líderes en este sector.',
     },
     {
-      title: 'Set an adventure schedule',
+      title: 'SERVICIO A DOMICILIO',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        "Para facilitar la compra, ofrecemos servicio de entrega a domicilio. Los muebles comprados se entregarán directamente en la dirección proporcionada por el cliente siempre y cuando ésta se encuentre en el área urbana de Baranoa.",
     },
     {
-      title: 'Technology using augment reality',
+      title: 'MONTAJE DE MUEBLES',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+        'Algunos muebles pueden requerir montaje después de la entrega. La empresa ofrece un servicio de montaje para estos artículos siempre y cuando ésta se encuentre en el área urbana de Baranoa.',
     },
     {
-      title: 'Many new locations every month',
+      title: 'COMPRA DE MUEBLES',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+        'Los clientes que deseen vender sus muebles pueden utilizar este servicio para obtener una valoración justa del precio de sus artículos. Compramos tus muebles, si tienes muebles en buen estado que necesitas vender nosotros te ofrecemos compra en efectivo para que cuentes con el dinero que necesitas de forma rápida y confiable.',
     },
   ];
   
   // FOOTER SECTION
   export const FOOTER_LINKS = [
     {
-      title: 'Learn More',
+      title: 'Conócenos',
       links: [
-        'About Hilink',
-        'Press Releases',
-        'Environment',
-        'Jobs',
-        'Privacy Policy',
-        'Contact Us',
+        'Acerca de nosotros',
+        // 'Notas de prensa',
+        // 'Medio ambiente',
+        'Trabaja con nosotros',
+        'Políticas de privacidad',
+        /* 'Contact Us', */
       ],
     },
-    {
-      title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
-    },
+    // {
+    //   title: 'Our Community',
+    //   links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+    // },
   ];
   
   export const FOOTER_CONTACT_INFO = {
-    title: 'Contact Us',
+    title: 'Contáctanos',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Ventas y soporte', value: '315-456-7890' },
+      { label: 'Email', value: 'ecomuebles@gmail.com' },
     ],
   };
   
@@ -81,6 +81,6 @@ export const NAV_LINKS = [
       '/instagram.svg',
       '/twitter.svg',
       '/youtube.svg',
-      '/wordpress.svg',
+      // '/wordpress.svg',
     ],
   };
